@@ -1,4 +1,4 @@
-module coop/envtester
+module chris0030/catherder
 
 go 1.17
 
